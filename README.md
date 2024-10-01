@@ -10,7 +10,6 @@ I'm a software engineering student. I'm striving to improve myself and become pr
 <br/>  
 
 
-## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently studying **Software Engineering**  
@@ -22,7 +21,7 @@ I'm a software engineering student. I'm striving to improve myself and become pr
 - 📫 How to reach me **elifcigrikci@hotmail.com**  
   
 
-- 📝 I regularly write articles on   
+- 📝 I regularly write articles on   Medium
 
 
 </td><td valign="top" width="50%">
@@ -99,5 +98,3 @@ I'm a software engineering student. I'm striving to improve myself and become pr
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
