@@ -71,6 +71,7 @@ I'm a software engineering student. I'm striving to improve myself and become pr
 <br/>  
 
   
+![Profile views counter](https://komarev.com/ghpvc/?username=elifberaa&&style=flat-square)  
 
 <br/>  
 
@@ -86,9 +87,7 @@ I'm a software engineering student. I'm striving to improve myself and become pr
 <a href="https://www.kaggle.com/https://www.kaggle.com/elifberaaa" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>  
-  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=elifberaa&&style=flat-square)  
   
 
 <br/>  
